@@ -1,0 +1,30 @@
+/* GENERAL */
+
+* {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	outline: none;
+}
+
+html {
+	margin: auto;
+ 	scroll-behavior: smooth;
+}
+
+/* HEADER */
+
+/* MAIN */
+
+/* FOOTER */
+
+/* MEDIUM SIZE SCREEN */
+
+@media screen and (min-width: 500px) {
+
+}
+
+/* BIG SIZE SCREEN */
+
+@media screen and (min-width: 1000px) {
+
+}
