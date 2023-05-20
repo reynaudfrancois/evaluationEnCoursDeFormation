@@ -17,7 +17,7 @@
 
 		<nav>
 			<a href='index.php' class='nav'>Accueil</a>
-			<a href='' class='nav'>Carte</a>
+			<a href='view/card.php' class='nav'>Carte</a>
 			<a href='' class='nav'>Menus</a>
 			<a href='' class='nav'>Connexion</a><br/>
 			<a href='' id='reserve'>RESERVER</a>
