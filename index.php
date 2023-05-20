@@ -13,14 +13,28 @@
 		<h1>Quai Antique</h1>
 
 		<nav>
-			<a href="">Accueil</a>
-			<a href="">Carte</a>
-			<a href="">Menus</a>
-			<a href="">Connexion</a><br/>
-			<a href="">RESERVER</a>
+			<a href="" class="nav">Accueil</a>
+			<a href="" class="nav">Carte</a>
+			<a href="" class="nav">Menus</a>
+			<a href="" class="nav">Connexion</a><br/>
+			<a href="" id="reserve">RESERVER</a>
 		</nav>
 
 	</header>
+
+	<footer>
+		
+		<h2>Nos horaires</h2>
+
+		<p>Lundi</p>
+		<p>Mardi</p>
+		<p>Mercredi</p>
+		<p>Jeudi</p>
+		<p>Vendredi</p>
+		<p>Samedi</p>
+		<p>Dimanche</p>
+
+	</footer>
 
 </body>
 </html>
