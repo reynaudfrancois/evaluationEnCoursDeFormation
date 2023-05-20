@@ -22,7 +22,9 @@
 
 	</header>
 
+	<main>
 
+	</main>
 
 	<footer>
 		
