@@ -8,7 +8,19 @@
 
 <body>
 
-	<h1>Quai Antique</h1>
+	<header>
+
+		<h1>Quai Antique</h1>
+
+		<nav>
+			<a href="">Accueil</a>
+			<a href="">Carte</a>
+			<a href="">Menus</a>
+			<a href="">Connexion</a><br/>
+			<a href="">RESERVER</a>
+		</nav>
+
+	</header>
 
 </body>
 </html>
