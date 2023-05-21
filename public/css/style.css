@@ -13,13 +13,24 @@ html {
 
 /* HEADER */
 
-/*nav {
-	position: fixed;
-	width: 90%;
+#restaurantName {
+	font-size: 100px;
+	font-style: italic;
+	color: green;
+}
+
+nav {
+	width: 100%;
 	display: flex;
 	justify-content: space-around;
-	background-color: #add8e6;
-}*/
+}
+
+nav a {
+	font-size: 50px;
+	text-decoration: none;
+	background-color: lightcyan;
+	padding: 10px;
+}
 
 /* MAIN */
 

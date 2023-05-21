@@ -13,13 +13,13 @@
 
 	<header>
 
-		<h1>Quai Antique</h1>
+		<h1 class="center" id="restaurantName">Quai Antique</h1>
 
 		<nav>
 			<a href='/evaluationEnCoursDeFormation/index.php' class='nav'>Accueil</a>
 			<a href='/evaluationEnCoursDeFormation/view/card.php' class='nav'>Carte</a>
 			<a href='/evaluationEnCoursDeFormation/view/menu.php' class='nav'>Menus</a>
-			<a href='/evaluationEnCoursDeFormation/view/connexion.php' class='nav'>Connexion</a><br/>
+			<a href='/evaluationEnCoursDeFormation/view/connexion.php' class='nav'>Connexion</a>
 			<a href='/evaluationEnCoursDeFormation/view/reserve.php' id='reserve'>RESERVER</a>
 		</nav>
 
