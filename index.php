@@ -1,4 +1,4 @@
-<?php require "view/header.inc.php"; ?> 
+<?php require "view/header.inc.php"; ?>
 
 	<main>
 
