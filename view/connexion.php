@@ -1,28 +1,28 @@
 <?php require 'header.inc.php'; ?>
 
-<main>
+<main id="connexion">
 
 	<div>		
 			
 		<h2>CONNECTEZ-VOUS</h2>				
 
-		<form id="connexion" action="../index.php" method="post">
+		<form id="userConnexion" action="../index.php" method="post">
 		
 			<div class="connexionInformations">
-				<label for="login">Votre pseudo *</label>
-				<input type="text" name="login" id="login" value="" />
+				<label for="email">Votre email *</label>
+				<input type="email" name="email" id="email" value="" />
 			</div>
 
-			<div class="connexionInformations">
+			<div class="connexionInformations" id="password">
 				<label for="password">Votre mot de passe *</label>
-				<input type="text" name="password" id="password" value="" />
+				<input type="password" name="password" id="password" value="" />
 			</div>
 
 			<div id="required">				
 				<p><strong>* Informations requises</strong></p>
 			</div>
 			
-			<div><input type="submit" name="send" class="button" value="Envoyer" /></div>
+			<div class="send"><input type="submit" name="send" class="button" value="Envoyer" /></div>
 
 		</form>
 				
