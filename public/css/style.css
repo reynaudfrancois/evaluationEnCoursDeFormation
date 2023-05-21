@@ -11,6 +11,20 @@ html {
  	scroll-behavior: smooth;
 }
 
+.center, h1, h2, h3 {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+h2 {
+	color: saddlebrown;
+	font-size: 80px;
+	margin-top: 100px;
+}
+
 /* HEADER */
 
 #restaurantName {
@@ -27,7 +41,6 @@ nav {
 
 nav a {
 	font-size: 50px;
-	text-decoration: none;
 	background-color: lightcyan;
 	padding: 10px;
 }
@@ -35,10 +48,6 @@ nav a {
 /* MAIN */
 
 	/* MAIN #gallery */
-
-.center {
-	text-align: center;
-}
 
 img {
 	width: 800px;
@@ -50,6 +59,34 @@ img {
 }
 
 /* FOOTER */
+
+footer h2, footer p {
+	text-align: center;
+	font-style: italic;
+}
+
+footer h2 {
+	font-size: 40px;
+	color: darkorange;
+}
+
+footer p {
+	font-size: 25px;
+	font-weight: bold;
+	color: blue;
+}
+
+footer div {
+	text-align: center;
+	font-size: 50px;
+	margin-bottom: 100px;
+}
+
+footer div a {
+	padding: 10px;
+	background-color: lightcyan;
+}
+
 
 /* MEDIUM SIZE SCREEN */
 
