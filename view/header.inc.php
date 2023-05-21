@@ -5,7 +5,7 @@
 	<meta name='viewport' content='width=device-width, initial-scale=1'>
 	<link rel="stylesheet" type="text/css" href="/evaluationEnCoursDeFormation/public/css/normalize-css/normalize.css" />
 	<link rel="stylesheet" type="text/css" href="/evaluationEnCoursDeFormation/public/fontawesome/css/all.css" />
-	<link rel="stylesheet" href="/evaluationEnCoursDeFormation/public/css/style.css" />
+	<link rel="stylesheet" href="public/css/style.css" />
 	<title>Quai Antique</title>
 </head>
 

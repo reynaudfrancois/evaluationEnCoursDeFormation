@@ -9,7 +9,7 @@
 		<form id="connexion" action="../index.php" method="post">
 		
 			<div class="connexionInformations">
-				<label for="login">Votre email *</label>
+				<label for="login">Votre pseudo *</label>
 				<input type="text" name="login" id="login" value="" />
 			</div>
 
