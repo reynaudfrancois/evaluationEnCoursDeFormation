@@ -1,4 +1,4 @@
-<?php require 'header.inc.php'; ?>
+<?php require '/view/header.inc.php'; ?>
 
 <main id="connexion">
 
@@ -30,4 +30,4 @@
 
 </main>	
 
-<?php require 'footer.inc.php'; ?>
+<?php require '/view/footer.inc.php'; ?>

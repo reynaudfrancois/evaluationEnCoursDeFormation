@@ -1,7 +1,7 @@
 	<footer>
 
 		<div>
-			<a href="view/reserve.php">RESERVER</a>
+			<a href="/view/reserve.php">RESERVER</a>
 		</div>
 		
 		<h2>Nos horaires</h2>
